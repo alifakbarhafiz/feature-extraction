@@ -4,7 +4,7 @@
 
 A comprehensive Jupyter Notebook for extracting rich feature representations from images using a PyTorch Convolutional Neural Network (CNN) and classifying them with classical Machine Learning algorithms (k-NN, SVM, Decision Tree) on the **CIFAR-10** dataset.
 
-<img src="path/to/your/comparative_results_table.png" alt="Classification Results Table" width="550">
+<img src="KNN (MLP).png" alt="Classification Results Table" width="550">
 
 *Example visualization: Comparative results of ML models on extracted features*
 
